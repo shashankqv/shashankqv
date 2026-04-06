@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Shashank Quadri
+# Hi there 👋 I'm Shashank 
 
 ## 🎯 About Me
-Senior Engineering Leader with 8+ years of experience building and scaling high-performing engineering teams. Specialized in architecting enterprise-grade systems, AI/ML integration, and leading cross-functional initiatives. Proven track record of delivering complex technical solutions while mentoring talented engineers and driving innovation.
+Senior Engineering Leader with 12+ years of experience building and scaling high-performing engineering teams. Specialized in architecting enterprise-grade systems, AI/ML integration, and leading cross-functional initiatives. Proven track record of delivering complex technical solutions while mentoring talented engineers and driving innovation.
 
 ## 🏆 Leadership Focus
 - **Engineering Team Management** - Building, scaling, and mentoring engineering teams
@@ -54,6 +54,3 @@ Senior Engineering Leader with 8+ years of experience building and scaling high-
 
 ## 💡 Philosophy
 *Great engineering leadership is about empowering teams to build scalable, maintainable systems while fostering a culture of innovation and continuous learning. I'm passionate about leveraging AI/ML to solve real-world problems and building the next generation of engineering talent.*
-
----
-*Open to collaborations on AI/ML initiatives, engineering leadership discussions, and mentoring opportunities.*
